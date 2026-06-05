@@ -1,0 +1,11 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.idea/
+.vscode/
+*.swp
+
+# Local d39admin scratch
+.d39admin-local/
